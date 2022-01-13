@@ -37,6 +37,7 @@
 [<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-wolfram-mathematica-is-a-modern-technical-computing-system-logo-color-tal-revivo.png"/>][github]
 [<img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png"/>][github]
 [<img src="https://img.icons8.com/color/48/000000/adobe-illustrator--v2.png"/>][github]
+[<img src="https://img.icons8.com/external-dreamstale-green-shadow-dreamstale/64/000000/external-atom-education-and-research-dreamstale-green-shadow-dreamstale.png"/>][github]
 
 <br/>
 
