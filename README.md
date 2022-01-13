@@ -1,11 +1,11 @@
-### Hi there  <img src="https://github.com/Akhil-Sharma30/Akhil-Sharma30/blob/main/Hi.gif" width="40" stye="max-width"/>, I'm Akhil Sharma [[Portfolio]]
+### Hi there , I'm Akhil Sharma [[Portfolio]] <img src="https://github.com/Akhil-Sharma30/Akhil-Sharma30/blob/main/Hi.gif" width="40" stye="max-width"/>
 ![](https://komarev.com/ghpvc/?username=Akhil-Sharma30&color=brightgreen&style=flat-square&label=PROFILE+VIEWS)
 
 ## Sophomore at Cluster Innovation Center ,University of Delhi!
 -🎓 I'm currently pursuing a degree in Information Technology and Mathematical Innovations. <br>
 -📷 I'm currently working on a Youtube Bot (YouQue). <br>
--👩‍💻 I'm currently Learning everything 🤣 <br>
--🤼 I'm looking to collaboration. <br>
+-👩‍💻 I'm currently Learning different Data Science python Library<br>
+-🤼 I'm looking to collaboration with global organization . <br>
 -🥅 2022 Goals: Contribute more to open Source Projects. <br>
 -⚡ Fun Facts: I love to being an Artist and Sports person.<br>
 
