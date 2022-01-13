@@ -20,18 +20,23 @@
 
 [![Akhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akhil-Sharma30&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
-### Language and Tools
+### Languages and Tools
 [<img src="https://img.icons8.com/color/48/000000/python--v1.png"/>][github]
 [<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>][github]
 [<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>][github]
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png"/>][github]
+[<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png"/>][github]
 [<img src="https://img.icons8.com/ios-glyphs/30/000000/html-5.png"/>][github]
 [<img src="https://img.icons8.com/color/48/000000/css-filetype.png"/>][github]
 [<img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>][github]
 [<img src="https://img.icons8.com/ios-filled/50/000000/unity.png"/>][github]
+[<img src="https://img.icons8.com/color/48/000000/git.png"/>][github]
+[<img src="https://img.icons8.com/ios-filled/50/000000/github.png"/>][github]
+[<img src="https://img.icons8.com/ios-filled/50/000000/run-command.png"/>][github]
+[<img src="https://img.icons8.com/color/48/000000/powershell.png"/>][github]
+[<img src="https://img.icons8.com/fluency/48/000000/matlab.png"/>][github]
+[<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-wolfram-mathematica-is-a-modern-technical-computing-system-logo-color-tal-revivo.png"/>][github]
 
-
-
+<br/>
 
 [Portfolio]: https://akhil-sharma30.github.io/AkhilSharmaCIC/
 [github]: https://github.com/Akhil-Sharma30
