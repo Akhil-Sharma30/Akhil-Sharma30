@@ -1,4 +1,4 @@
-### Hi there, I'm Akhil Sharma [[Portfolio]] <img src="https://github.com/Saransh-cpp/Saransh-cpp/blob/main/Hi.gif" width="40" stye="max-width"/>
+### Hi there  <img src="https://github.com/Akhil-Sharma30/Akhil-Sharma30/blob/main/Hi.gif" width="40" stye="max-width"/>, I'm Akhil Sharma [[Portfolio]]
 ![](https://komarev.com/ghpvc/?username=Akhil-Sharma30&color=brightgreen&style=flat-square&label=PROFILE+VIEWS)
 
 ## Sophomore at Cluster Innovation Center ,University of Delhi!
