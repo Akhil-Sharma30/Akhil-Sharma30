@@ -36,7 +36,7 @@
 [<img src="https://img.icons8.com/fluency/48/000000/matlab.png"/>][github]
 [<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-wolfram-mathematica-is-a-modern-technical-computing-system-logo-color-tal-revivo.png"/>][github]
 [<img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png"/>][github]
-[<img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png"/>][github]
+[<img src="https://img.icons8.com/color/48/000000/adobe-illustrator--v2.png"/>][github]
 
 <br/>
 
