@@ -4,8 +4,8 @@
 ## Sophomore at Cluster Innovation Center ,University of Delhi!
 -🎓 I'm currently pursuing a degree in Information Technology and Mathematical Innovations. <br>
 -📷 I'm currently working on a Youtube Bot (YouQue). <br>
--👩‍💻 I'm currently Learning different Data Science python Library<br>
--🤼 I'm looking to collaboration with global organization . <br>
+-👩‍💻 I'm currently Learning Data Science <br>
+-🤼 I'm looking to collaboration. <br>
 -🥅 2022 Goals: Contribute more to open Source Projects. <br>
 -⚡ Fun Facts: I love to being an Artist and Sports person.<br>
 
