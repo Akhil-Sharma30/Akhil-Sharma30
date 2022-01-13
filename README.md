@@ -10,9 +10,9 @@
 
 ### Connect With Me:
 
-[<img align="left" alt"github profile" src="https://img.icons8.com/ios-filled/50/000000/github.png"/>][github]
-[<img align"left" alt="linkedin" src="https://img.icons8.com/color/48/000000/linkedin.png">][linkedin]
-[<img alt="left" alt="website" src="https://img.icons8.com/fluency/48/000000/globe.png"/>][website]
+[<img src="https://img.icons8.com/ios-filled/50/000000/github.png"/>][github]
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png">][linkedin]
+[<img src="https://img.icons8.com/fluency/48/000000/globe.png"/>][website]
 [<img src="https://img.icons8.com/color/48/000000/twitter--v2.png"/>][twitter]
 [<img src="https://img.icons8.com/color/48/000000/youtube-play.png"/>][channel]
 
@@ -21,6 +21,10 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Akhil-Sharma30)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Akhil-Sharma30&show_icons=true)  
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Akhil-Sharma30)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akhil-Sharma30)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Skills and Experience 
 
