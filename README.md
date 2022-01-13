@@ -33,6 +33,7 @@
 [<img src="https://img.icons8.com/ios-filled/50/000000/github.png"/>][github]
 [<img src="https://img.icons8.com/ios-filled/50/000000/run-command.png"/>][github]
 [<img src="https://img.icons8.com/color/48/000000/powershell.png"/>][github]
+[<img src="https://img.icons8.com/external-vitaliy-gorbachev-blue-vitaly-gorbachev/48/000000/external-eclipse-weather-vitaliy-gorbachev-blue-vitaly-gorbachev.png"/>][github]
 [<img src="https://img.icons8.com/fluency/48/000000/matlab.png"/>][github]
 [<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-wolfram-mathematica-is-a-modern-technical-computing-system-logo-shadow-tal-revivo.png"/>>][github]
 [<img src="https://img.icons8.com/color/48/000000/android-studio--v3.png"/>][github]
