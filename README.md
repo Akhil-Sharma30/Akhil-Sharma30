@@ -11,7 +11,7 @@
 ### Connect With Me:
 
 [<img src="https://img.icons8.com/ios-filled/50/000000/github.png"/>][github]
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>][linkedin]
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" padding:2px,2px/>][linkedin]
 [<img src="https://img.icons8.com/fluency/48/000000/globe.png"/>][website]
 [<img src="https://img.icons8.com/color/48/000000/twitter--v2.png"/>][twitter]
 [<img src="https://img.icons8.com/color/48/000000/youtube-play.png"/>][channel]
