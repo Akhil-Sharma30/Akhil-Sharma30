@@ -18,13 +18,10 @@
 
 <br />
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Akhil-Sharma30)  
+[<img src='https://img.icons8.com/ios-filled/50/000000/github.png' alt='github' height='40'>](https://github.com/Akhil-Sharma30)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Akhil-Sharma30&show_icons=true)  
+![Akhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akhil-Sharma30&show_icons=true)  
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Akhil-Sharma30)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akhil-Sharma30)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Skills and Experience 
 
