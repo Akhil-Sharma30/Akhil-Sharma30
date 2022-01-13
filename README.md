@@ -1,4 +1,4 @@
-### Hi there, I'm Akhil Sharma [Portfolio] 👋
+### Hi there, I'm Akhil Sharma [[Portfolio]] 👋
 ![](https://komarev.com/ghpvc/?username=Akhil-Sharma30&color=brightgreen&style=flat-square&label=PROFILE+VIEWS)
 
 ## A Sophomore at Cluster Innovation Center ,University of Delhi!
