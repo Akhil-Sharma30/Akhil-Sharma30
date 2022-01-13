@@ -1,5 +1,5 @@
 ### Hi there, I'm Akhil Sharma [[Portfolio]] 👋
-![](https://github.com/Akhil-Sharma30/ghpvc/?username=Akhil-Sharma30&color=brightgreen&style=flat-square&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=Akhil-Sharma30&color=brightgreen&style=flat-square&label=PROFILE+VIEWS)
 
 ## Sophomore at Cluster Innovation Center ,University of Delhi!
 -🎓 I'm currently pursuing a degree in Information Technology and Mathematical Innovations. <br>
