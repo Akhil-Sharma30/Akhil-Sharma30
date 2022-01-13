@@ -23,7 +23,7 @@
 [![Akhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akhil-Sharma30&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Akhil-Sharma30)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Akhil-Sharma30&show_icons=true&theme=gruvbox)  
 
 ### Languages and Tools
 [<img src="https://img.icons8.com/color/48/000000/python--v1.png"/>][github]
