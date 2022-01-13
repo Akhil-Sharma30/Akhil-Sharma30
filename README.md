@@ -1,6 +1,6 @@
-### Hi there, I'm Akhil Sharma [website] 👋
+## Hi there, I'm Akhil Sharma [website] 👋
 
-## Sophomore at Cluster Innovation Center ,University of Delhi!
+### Sophomore at Cluster Innovation Center ,University of Delhi!
 -📷 I'm currently working on a
 -👩‍💻 I'm currently Learning everything 🤣
 -🤼 I'm looking to collaborate with other experts in the Different domains
