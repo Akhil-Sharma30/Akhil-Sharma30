@@ -17,10 +17,7 @@
 [<img src="https://img.icons8.com/color/48/000000/youtube-play.png"/>][channel]
 
 <br />
-
-[<img src='https://img.icons8.com/ios-filled/50/000000/github.png' alt='github' height='40'>](https://github.com/Akhil-Sharma30)  
-
-![Akhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akhil-Sharma30&show_icons=true)  
+![Akhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akhil-Sharma30&show_icons=true&theme=radical) 
 
 
 ## Skills and Experience 
