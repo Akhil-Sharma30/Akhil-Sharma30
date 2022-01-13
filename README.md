@@ -1,4 +1,5 @@
 ### Hi there, I'm Akhil Sharma [website] 👋
+![](https://komarev.com/ghpvc/?https://github.com/Akhil-Sharma30)
 
 ## Sophomore at Cluster Innovation Center ,University of Delhi!
 -📷 I'm currently working on a <br>
