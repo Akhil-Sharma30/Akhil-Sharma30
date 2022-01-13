@@ -17,6 +17,7 @@
 [<img src="https://img.icons8.com/color/48/000000/twitter--v2.png"/>][twitter]
 [<img src="https://img.icons8.com/color/48/000000/youtube-play.png"/>][channel]
 
+
 <br />
 
 [![Akhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akhil-Sharma30&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
@@ -51,5 +52,6 @@
 [website]: https://akhil-sharma30.github.io/AkhilSharmaCIC/
 [twitter]: https://twitter.com/Akhil_EaZy
 [channel]: https://www.youtube.com/channel/UCHh-Y2oH_GQMhpkEpTrUnCw
+[linktree]: https://linktr.ee/Akhil_Sharma
 
 
