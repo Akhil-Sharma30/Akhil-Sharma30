@@ -6,7 +6,7 @@
 -👩‍💻 I'm currently Learning everything 🤣 <br>
 -🤼 I'm looking to collaborate with other experts in the Different domains <br>
 -🥅 2022 Goals: Contribute more to open Source Projects <br>
--⚡ Fun Facts: I love to being an Artist, Sports person <br>
+-⚡ Fun Facts: I love to being an Artist and Sports person <br>
 
 ### Connect With Me:
 
@@ -17,7 +17,8 @@
 [<img src="https://img.icons8.com/color/48/000000/youtube-play.png"/>][channel]
 
 <br />
-![Akhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akhil-Sharma30&show_icons=true&theme=radical) 
+
+[![Akhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akhil-Sharma30)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Skills and Experience 
