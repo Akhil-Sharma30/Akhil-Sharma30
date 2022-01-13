@@ -9,7 +9,16 @@
 -🥅 2022 Goals: Contribute more to open Source Projects. <br>
 -⚡ Fun Facts: I love to being an Artist and Sports person.<br>
 
+### Connect With Me:
+
+[<img src="https://img.icons8.com/ios-filled/50/000000/github.png"/>][github]
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png">][linkedin]
+[<img src="https://img.icons8.com/fluency/48/000000/globe.png"/>][website]
+[<img src="https://img.icons8.com/color/48/000000/twitter--v2.png"/>][twitter]
+[<img src="https://img.icons8.com/color/48/000000/youtube-play.png"/>][channel]
+
 <br />
+### Github Stat's
 
 [![Akhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akhil-Sharma30&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -18,13 +27,7 @@
 
 <br/>
 
-### Connect With Me:
 
-[<img src="https://img.icons8.com/ios-filled/50/000000/github.png"/>][github]
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png">][linkedin]
-[<img src="https://img.icons8.com/fluency/48/000000/globe.png"/>][website]
-[<img src="https://img.icons8.com/color/48/000000/twitter--v2.png"/>][twitter]
-[<img src="https://img.icons8.com/color/48/000000/youtube-play.png"/>][channel]
 
 
 ### Languages and Tools
