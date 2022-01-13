@@ -7,7 +7,7 @@
 -🥅 2022 Goals: Contribute more to open Source Projects <br>
 -⚡ Fun Facts: I love to being an Artist, Sports person <br>
 
-###Connect With Me:
+### Connect With Me:
 
 [<img src="https://img.icons8.com/ios-filled/50/000000/github.png"/>][github]
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>][linkedin]
