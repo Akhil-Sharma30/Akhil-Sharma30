@@ -3,7 +3,7 @@
 
 ## Sophomore at Cluster Innovation Center ,University of Delhi!
 -🎓 I'm currently pursuing a degree in Information Technology and Mathematical Innovations. <br>
--📷 I'm currently working on a Youtube Bot (YouQue). <br>
+-📷 I'm currently working on a Youtube Bot ([YouQue]). <br>
 -👩‍💻 I'm currently Learning Data Science <br>
 -🤼 I'm looking to collaboration. <br>
 -🥅 2022 Goals: Contribute more to open Source Projects. <br>
@@ -61,5 +61,6 @@
 [twitter]: https://twitter.com/Akhil_EaZy
 [channel]: https://www.youtube.com/channel/UCHh-Y2oH_GQMhpkEpTrUnCw
 [linktree]: https://linktr.ee/Akhil_Sharma
+[YouQue] : https://github.com/Akhil-Sharma30/YouQue
 
 
