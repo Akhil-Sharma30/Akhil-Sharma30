@@ -61,4 +61,4 @@
 [twitter]: https://twitter.com/Akhil_EaZy
 [channel]: https://www.youtube.com/channel/UCHh-Y2oH_GQMhpkEpTrUnCw
 [YouQue]: https://github.com/Akhil-Sharma30/YouQue
-[Ai Game]: https://github.com/Akhil-Sharma30/AI-BASED-2-PLAYER-GAM
+[Ai Chess Based Game]: https://github.com/Akhil-Sharma30/AI-BASED-2-PLAYER-GAM
