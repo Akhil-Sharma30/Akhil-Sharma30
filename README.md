@@ -1,14 +1,32 @@
-<h1 align="center">Hi 👋, I'm Akhil Sharma</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akhil-sharma30&label=Profile%20views&color=0e75b6&style=flat" alt="akhil-sharma30" /> </p>
+<h1 align="left">Hi 👋, I'm Akhil Sharma</h1>
+<img src="./profile.gif" height="250px" width="300px", align=right>
 
-- 🔭 I’m currently working on **Automating Test Cases**
+## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+- You are probably looking for porfolio.
+- 🖥 Human Computer Interaction enthusiast with knowledge of Game Develpment and AR/MR.
+- 🌱 I’m currently learning Machine Learning and LLMs.
+- 🎓 Studying B.tech in Information Technology and Mathematical innovation 𝚊𝚝 𝚝𝚑𝚎 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢 𝚘𝚏 delhi, 𝚌𝚕𝚊𝚜𝚜 𝚘𝚏 𝟸0𝟸4
 
-- 🌱 I’m currently learning **Transformer and LLMs**
+## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
+- 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
+```yaml
+- Collaborating with Agnisys on Automating their test cases using python and AI reinforment technique!
+- Working on Digital Systems!
+```
 
-- 📫 How to reach me **akhilsharma.off@gmail.com**
+- 🎯 𝙸𝚗 𝚝𝚑𝚎 𝚗𝚎𝚊𝚛 𝚏𝚞𝚝𝚞𝚛𝚎, 𝙸 𝚙𝚕𝚊𝚗 𝚝𝚘...
+- 🤞 𝙾𝚗𝚎 𝚍𝚊𝚢 𝙸 𝚑𝚘𝚙𝚎 𝚝𝚘...
+	- 𝙶𝚘 publishing my own .py library!
+	- 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚎 𝚌𝚘𝚍𝚎 𝚝𝚘 𝚝𝚑𝚎 [𝙻𝚒𝚗𝚞𝚡 𝚔𝚎𝚛𝚗𝚎𝚕](https://github.com/torvalds/linux)
+	- apply for Cern technical student 2023(hoping to get in)
+### Blogs and writings✍🏻
+Apart from coding, I also maintain a blog - you can find my articles on medium at [Akhilsharma30](https://medium.com/@Akhilsharma30) as well as on Medium and DEV.to.
 
-### Blogs posts
-[House-prices-analysis-advanced-regression-techniques](https://medium.com/@Akhilsharma30/house-prices-analysis-advanced-regression-techniques-bb444f471080)
+A sample of my recent articles:
+
+1. [House-prices-analysis-advanced-regression-techniques](https://medium.com/@Akhilsharma30/house-prices-analysis-advanced-regression-techniques-bb444f471080)
+2. [Brackey's GameJam Experience](https://medium.com/@Akhilsharma30/first-experience-of-a-game-jam-36f8d2c6b56e)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,7 +41,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akhil-sharma30&show_icons=true&locale=en&layout=compact" alt="akhil-sharma30" /></p>
 
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/saved.gif" width="195">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akhil-sharma30&show_icons=true&locale=en" alt="akhil-sharma30" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akhil-sharma30&" alt="akhil-sharma30" /></p>
 
