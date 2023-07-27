@@ -3,7 +3,7 @@
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - You are probably looking for porfolio.
-- 🖥 Human Computer Interaction enthusiast with knowledge of Game Develpment and AR/MR.
+- 🖥 Human Computer Interaction enthusiast with knowledge of Game Dev and AR/MR.
 - 🌱 I’m currently learning Machine Learning and LLMs.
 - 🎓 Studying B.tech in Information Technology and Mathematical innovation 𝚊𝚝 𝚝𝚑𝚎 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢 𝚘𝚏 delhi, 𝚌𝚕𝚊𝚜𝚜 𝚘𝚏 𝟸0𝟸4
 
