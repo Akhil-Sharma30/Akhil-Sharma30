@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Akhil Sharma</h1>
+<h1 align="left">Hi 👋🏻, I'm Akhil Sharma</h1>
 <img src="./profile.gif" height="250px" width="300px", align=right>
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
