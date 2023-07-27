@@ -8,8 +8,7 @@
 - 📫 How to reach me **akhilsharma.off@gmail.com**
 
 ### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+[House-prices-analysis-advanced-regression-techniques](https://medium.com/@Akhilsharma30/house-prices-analysis-advanced-regression-techniques-bb444f471080)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
