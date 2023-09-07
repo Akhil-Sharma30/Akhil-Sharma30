@@ -10,7 +10,8 @@
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
 - 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
 ```yaml
-- Collaborating with Agnisys on Automating their test cases using python and AI reinforcement technique!
+- Collaborating with Infection Monkey to create their cookiecutter template for Infection Monkey-related projects.
+- Working in Agnisys on Automating their test cases using python and AI reinforcement technique!
 - Working on Digital Systems!
 ```
 
