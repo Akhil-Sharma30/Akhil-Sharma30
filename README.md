@@ -25,8 +25,9 @@ Apart from coding, I also maintain a blog - you can find my articles on medium a
 
 A sample of my recent articles:
 
-1. [House-prices-analysis-advanced-regression-techniques](https://medium.com/@Akhilsharma30/house-prices-analysis-advanced-regression-techniques-bb444f471080)
-2. [Brackey's GameJam Experience](https://medium.com/@Akhilsharma30/first-experience-of-a-game-jam-36f8d2c6b56e)
+1. [Using LlamaIndex and LLM's:Designed a personal chatbot](https://medium.com/@Akhilsharma30/using-llamaindex-and-large-language-models-building-a-personal-chatbot-for-private-knowledge-base-28eb98607739)
+2. [House-prices-analysis-advanced-regression-techniques](https://medium.com/@Akhilsharma30/house-prices-analysis-advanced-regression-techniques-bb444f471080)
+3. [Brackey's GameJam Experience](https://medium.com/@Akhilsharma30/first-experience-of-a-game-jam-36f8d2c6b56e)
 
 
 <h3 align="left">Connect with me:</h3>
