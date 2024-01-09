@@ -3,16 +3,16 @@
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - You are probably looking for [Porfolio👨🏻‍💻](https://akhil-sharma30.github.io).
-- 🖥 Human Computer Interaction enthusiast with knowledge of Game Dev and AR/MR.
+- 🖥 Human-computer interaction enthusiast with Game Dev and AR/MR knowledge.
 - 🌱 I’m currently learning Machine Learning and LLMs.
-- 🎓 Studying B.tech in Information Technology and Mathematical innovation 𝚊𝚝 𝚝𝚑𝚎 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢 𝚘𝚏 delhi, 𝚌𝚕𝚊𝚜𝚜 𝚘𝚏 𝟸0𝟸4
+- 🎓 Studying B.tech in Information Technology and Mathematical Innovation 𝚊𝚝 𝚝𝚑𝚎 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢 𝚘𝚏 Delhi, 𝚌𝚕𝚊𝚜𝚜 𝚘𝚏 𝟸0𝟸4
 
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
 - 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
 ```yaml
-- Collaborating with Infection Monkey to create their cookiecutter template for Infection Monkey-related projects.
-- Working in Agnisys on Automating their test cases using python and AI reinforcement technique!
-- Working on Digital Systems!
+- Collaborating with Infection Monkey to create their cookie-cutter template for Infection Monkey-related projects.
+- Working in CiSTUP, IISc Bangalore as a Research Intern for the Design and Development of Traffic Scenarios!
+- Working on Traffic systems!
 ```
 
 - 🎯 𝙸𝚗 𝚝𝚑𝚎 𝚗𝚎𝚊𝚛 𝚏𝚞𝚝𝚞𝚛𝚎, 𝙸 𝚙𝚕𝚊𝚗 𝚝𝚘...
