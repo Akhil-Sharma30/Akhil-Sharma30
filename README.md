@@ -4,7 +4,7 @@
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - You are probably looking for [Porfolio👨🏻‍💻](https://akhil-sharma30.github.io).
 - 🖥 Human-computer interaction enthusiast with Game Dev and AR/MR knowledge.
-- 🌱 I’m currently learning Machine Learning and LLMs.
+- 🌱 I’m currently Research Intern at Cistup,IISc Bangalore.
 - 🎓 Studying B.tech in Information Technology and Mathematical Innovation 𝚊𝚝 𝚝𝚑𝚎 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢 𝚘𝚏 Delhi, 𝚌𝚕𝚊𝚜𝚜 𝚘𝚏 𝟸0𝟸4
 
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
