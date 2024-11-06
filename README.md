@@ -44,5 +44,4 @@ A sample of my recent articles:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akhil-sharma30&show_icons=true&locale=en&layout=compact" alt="akhil-sharma30" /></p>
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/saved.gif" width="195">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akhil-sharma30&show_icons=true&locale=en" alt="akhil-sharma30" /></p>
 
